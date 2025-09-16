@@ -33,5 +33,4 @@ Previously, I worked in **microbiological laboratories within the medical device
 
 ⭐ I am continuously learning and exploring new tools and technologies in software testing.
 
-- ⚡ Fun fact: ...
--->
+
